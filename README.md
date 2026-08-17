@@ -6,9 +6,9 @@ Este proyecto de Ingeniería de Datos tiene como objetivo procesar, analizar y m
 ---
 
 ## 👥 Equipo de Trabajo
-* **Julián Villegas** — *Ingeniería de Datos & Modelado Dimensional*
-* **Ana Mican** — *Desarrollo de Scripts ETL & Calidad de Datos*
-* **Juan Torres** — *Investigación Aplicada & Documentación*
+* **Julián Villegas** 
+* **Ana Mican**  
+* **Juan Torres** 
 
 ---
 
